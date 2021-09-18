@@ -1,0 +1,122 @@
+<table border="1">
+  <caption><strong>Периодическая таблица химических элементов Д.И.Менделеева</caption>
+  <tr>
+    <th colspan="19">Группы</th>
+  </tr> 
+  <tr>
+    <td rowspan="2">Периоды</td>
+    <td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td>
+  </tr>
+  <tr>
+    <th>IA</th><th>IIA</th><th>IIIБ</th><th>IVБ</th><th>VIБ</th><th>VIIБ</th><th>VIIБ</th><th colspan="3">VIIIБ</th><th>IБ</th><th>IIБ</th><th>IIIA</th><th>IVA</th><th>VA</th><th>VIA</th><th>VIIA</th><th>VIIIA</th>
+  </tr>
+  <tr>
+    <th>1</th><th bgcolor="PaleTurquoise">H</th><th colspan="16"></th><th bgcolor="PaleTurquoise">He</th>
+  </tr>
+  <tr>
+    <th>2</th><th bgcolor="khaki">Li</th>
+    <th bgcolor="khaki">Be</th>
+    <th colspan="10"></th>
+    <th bgcolor="PaleTurquoise">B</th>
+    <th bgcolor="PaleTurquoise">C</th>
+    <th bgcolor="PaleTurquoise">N</th>
+    <th bgcolor="PaleTurquoise">O</th>
+    <th bgcolor="PaleTurquoise">F</th>
+    <th bgcolor="PaleTurquoise">Ne</th>
+  </tr>
+  <tr>
+    <th>3</th>
+    <th bgcolor="khaki">Na</th>
+    <th bgcolor="khaki">Mg</th>
+    <th colspan="10"></th>
+    <th bgcolor="khaki">Al</th>
+    <th bgcolor="PaleTurquoise">Si</th>
+    <th bgcolor="PaleTurquoise">P</th>
+    <th bgcolor="PaleTurquoise">S</th>
+    <th bgcolor="PaleTurquoise">Cl</th>
+    <th bgcolor="PaleTurquoise">Ar</th>
+  </tr>
+  <tr>
+    <th>4</th>
+    <th bgcolor="khaki">K</th>
+    <th bgcolor="Khaki">Ca</th>
+    <th bgcolor="khaki">Sc</th>
+    <th bgcolor="khaki">Ti</th>
+    <th bgcolor="khaki">V</th>
+    <th bgcolor="khaki">Cr</th>
+    <th bgcolor="khaki">Mn</th>
+    <th bgcolor="khaki">Fe</th>
+    <th bgcolor="khaki">Co</th>
+    <th bgcolor="khaki">Ni</th>
+    <th bgcolor="khaki">Cu</th>
+    <th bgcolor="khaki">Zn</th>
+    <th bgcolor="khaki">Ga</th>
+    <th bgcolor="khaki">Ge</th>
+    <th bgcolor="PaleTurquoise">As</th>
+    <th bgcolor="PaleTurquoise">Se</th>
+    <th bgcolor="PaleTurquoise">Br</th>
+    <th bgcolor="PaleTurquoise">Kr</th>
+  </tr>
+  <tr>
+    <th>5</th>
+    <th bgcolor="khaki">Rb</th>
+    <th bgcolor="khaki">Sr</th>
+    <th bgcolor="khaki">Y</th>
+    <th bgcolor="khaki">Zr</th>
+    <th bgcolor="khaki">Nb</th>
+    <th bgcolor="khaki">Mo</th>
+    <th bgcolor="khaki">Tc</th>
+    <th bgcolor="khaki">Ru</th>
+    <th bgcolor="khaki">Rh</th>
+    <th bgcolor="khaki">Pd</th>
+    <th bgcolor="khaki">Ag</th>
+    <th bgcolor="khaki">Cd</th>
+    <th bgcolor="khaki">In</th>
+    <th bgcolor="khaki">Sn</th>
+    <th bgcolor="khaki">Sb</th>
+    <th bgcolor="PaleTurquoise">Te</th>
+    <th bgcolor="PaleTurquoise">I</th>
+    <th bgcolor="PaleTurquoise">Xe</th>
+  </tr>
+  <tr>
+    <th>6</th>
+    <th bgcolor="khaki">Cs</th>
+    <th bgcolor="khaki">Ba</th>
+    <th bgcolor="khaki">La</th>
+    <th bgcolor="khaki">Hf</th>
+    <th bgcolor="khaki">Ta</th>
+    <th bgcolor="khaki">W</th>
+    <th bgcolor="khaki">Re</th>
+    <th bgcolor="khaki">Os</th>
+    <th bgcolor="khaki">Ir</th>
+    <th bgcolor="khaki">Pt</th>
+    <th bgcolor="khaki">Au</th>
+    <th bgcolor="khaki">Hg</th>
+    <th bgcolor="khaki">Tl</th>
+    <th bgcolor="khaki">Pb</th>
+    <th bgcolor="khaki">Bi</th>
+    <th bgcolor="khaki">Po</th>
+    <th bgcolor="PaleTurquoise">At</th>
+    <th bgcolor="PaleTurquoise">Rn</th>
+  </tr>
+  <tr>
+    <th>7</th>
+    <th bgcolor="khaki">Fr</th>
+    <th bgcolor="khaki">Ra</th>
+    <th bgcolor="khaki">Ac</th>
+    <th bgcolor="khaki">Rf</th>
+    <th bgcolor="khaki">Db</th>
+    <th bgcolor="khaki">Sg</th>
+    <th bgcolor="khaki">Bh</th>
+    <th bgcolor="khaki">Hs</th>
+    <th bgcolor="Thistle">Mt</th>
+    <th bgcolor="Thistle">Ds</th>
+    <th bgcolor="Thistle">Rg</th>
+    <th bgcolor="khaki">Cn</th>
+    <th bgcolor="Thistle">Nh</th>
+    <th bgcolor="Thistle">Fl</th>
+    <th bgcolor="Thistle">Mc</th>
+    <th bgcolor="Thistle">Lv</th>
+    <th bgcolor="Thistle">Ts</th>
+    <th bgcolor="Thistle">Og</th>
+  </tr>
